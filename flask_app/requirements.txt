@@ -1,5 +1,5 @@
 # REST API Generation
-flask==1.1.1
+flask==2.3.2
 
 # DB & ORM (Object Relational Mapping)
 sqlalchemy==1.3.8
